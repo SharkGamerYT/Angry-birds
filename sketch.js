@@ -14,7 +14,7 @@ var pig4;
 var bg = "sprites/bg.png";
 var score = 0;
 function preload() {
-    backgroundImg = loadImage("sprites/bg.png");
+    backgroundImg = loadImage("Sprites/bg.png");
     //getBackgroundImage()
     
 }
